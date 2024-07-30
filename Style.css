@@ -422,9 +422,7 @@ display: none;
     .newletter-right{
         padding-left: 4rem;
     }
-    .newsletter-content{
-        width: 100%;
-    }
+   
     
 }
 .news-image {
@@ -591,7 +589,7 @@ display: none;
 
     }
     .footer-top{
-       padding-left: 5rem;
+       padding-left: 4.9rem;
     }
     .footer-grid{
         justify-content: space-evenly;
